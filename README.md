@@ -7,11 +7,11 @@ A simple and interactive flashcard application to help users learn the most comm
 Built with Python and Tkinter as part of my learning journey.
 
 #Features:
-* 📚 Learn the most frequent Arabic words
-* 🔄 Flip flashcards to reveal English translations
-* 🧠 Improve vocabulary through repetition
-* 💾 Custom dataset (Arabic → English)
-* 🖥️ Simple and clean graphical interface
+*  Learn the most frequent Arabic words
+*  Flip flashcards to reveal English translations
+*  Improve vocabulary through repetition
+*  Custom dataset (Arabic → English)
+*  Simple and clean graphical interface
 
 #Tech Stack:
 * Python
@@ -43,7 +43,7 @@ python main.py
 flashcards-app/
 │── main.py
 │── data/
-│   └── words.csv
+│   └── Frequent arabic words - Sheet1.csv
 │── images/
 │── README.md
 ```
