@@ -23,13 +23,13 @@ Built with Python and Tkinter as part of my learning journey.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/arabic-flashcards-app.git
+git clone https://github.com/Maria-Farhat/Flash-Card-App.git
 ```
 
 2. Navigate into the project folder:
 
 ```bash
-cd arabic-flashcards-app
+cd Flash-Card-App
 ```
 
 3. Run the app:
@@ -40,7 +40,7 @@ python main.py
 
 #Project Structure:
 ```
-flashcards-app/
+Flash-Card-App/
 │── main.py
 │── data/
 │   └── Frequent arabic words - Sheet1.csv
