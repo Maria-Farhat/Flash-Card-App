@@ -74,12 +74,12 @@ canvas.grid(row=0, column=0, columnspan=2)
 
 x_image = PhotoImage(file='images/wrong.png')
 # Wrong answer button (skip word)
-unknown_button = Button(image=x_image, highlightthickness=0, command=next_card)
+unknown_button = Button(image=x_image, highlightthickness=0, bd=0, command=next_card)
 unknown_button.grid(row=1, column=0)
 
 check_image = PhotoImage(file='images/right.png')
 # Correct answer button (mark as known)
-known_button = Button(image=check_image, highlightthickness=0, command=remove_card)
+known_button = Button(image=check_image, highlightthickness=0, bd=0, command=remove_card)
 known_button.grid(row=1, column=1)
 
 
